@@ -2,7 +2,6 @@
 '''
 frozenCait.py - This is a script for my neice that opens a youtube video for a frozen song. 
 
-2016/2/14
 by zorba
 '''
 
